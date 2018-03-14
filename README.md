@@ -1,5 +1,3 @@
-# TNN-SR
-
 % The folder "TNN_SR" contains the codes for the following three
 % sub-folders:-
 
